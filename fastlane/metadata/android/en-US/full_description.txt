@@ -1,0 +1,20 @@
+Itinerary Planner is your go-to companion for organizing and managing your travel plans. Whether you're planning a quick weekend getaway or an extended international adventure, this app helps you keep all your trip details in one place.
+
+Features:
+
+* Create and manage multiple trip plans
+* Add itinerary items including dates, times, and costs
+* Visualize your trip timeline
+* Track your travel budget
+* Attach images to your trips for easy memory keeping
+* User-friendly interface for effortless planning
+
+This open-source app respects your privacy and doesn't require an internet connection. All your trip data is stored locally on your device.
+
+Perfect for:
+
+* Frequent travelers
+* Vacation planners
+* Anyone who loves to keep their trips well-organized
+
+Start planning your next adventure today with Itinerary Planner!
